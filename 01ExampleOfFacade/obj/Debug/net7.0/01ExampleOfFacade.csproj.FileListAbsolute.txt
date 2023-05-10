@@ -1,0 +1,15 @@
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/bin/Debug/net7.0/01ExampleOfFacade
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/bin/Debug/net7.0/01ExampleOfFacade.deps.json
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/bin/Debug/net7.0/01ExampleOfFacade.runtimeconfig.json
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/bin/Debug/net7.0/01ExampleOfFacade.dll
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/bin/Debug/net7.0/01ExampleOfFacade.pdb
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/01ExampleOfFacade.csproj.AssemblyReference.cache
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/01ExampleOfFacade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/01ExampleOfFacade.AssemblyInfoInputs.cache
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/01ExampleOfFacade.AssemblyInfo.cs
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/01ExampleOfFacade.csproj.CoreCompileInputs.cache
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/01ExampleOfFacade.dll
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/refint/01ExampleOfFacade.dll
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/01ExampleOfFacade.pdb
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/01ExampleOfFacade.genruntimeconfig.cache
+/Users/fikyfatih/Developer/Learn/bootcamp/00 ExampleOfFacade/01ExampleOfFacade/obj/Debug/net7.0/ref/01ExampleOfFacade.dll
